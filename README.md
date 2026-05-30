@@ -4,7 +4,7 @@
 
 ## 內容
 
-- 公共世界建構設定 I (English)
+- Public Worldbuilding Setting I (English)
 - 世界觀背景 (中文)
 
 ## 版權聲明
