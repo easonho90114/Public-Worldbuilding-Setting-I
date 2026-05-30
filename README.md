@@ -1,6 +1,8 @@
-# 公共世界建構設定 I
+# 公共世界建構設定 I [Public-Worldbuilding-Setting-I]
 
 這是一個原創世界觀設定檔案庫，主要記錄宇宙牆壁、虛、平行世界、平行鏈、有限宇宙與跨宇宙現象等設定。
+This is an original world-building archive, mainly recording settings such as the universe wall, virtual world,
+parallel world, parallel chains, finite universe, and inter-universe phenomena.
 
 ## 內容
 
@@ -13,3 +15,5 @@
 
 本資料庫中的世界觀、設定、名稱與文字內容皆為原創內容。
 目前已經開源歡迎任何人使用。
+The world settings, background settings, names, and text content in 
+this database are all original.
