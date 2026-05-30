@@ -56,13 +56,20 @@ Works that change the base rules may still be published, but they should be labe
 rather than:
 “Compatible with the Universe Wall Framework.”
 
-其他人基於本框架創作的作品屬於其創作者自己的獨立作品。除非原作者明確承認，否則不屬於原作者故事作品的官方正史。
 
-Works created by others based on this framework are independent works belonging to their creators. Unless explicitly approved by the original creator, they are not part of the official canon of the original creator’s stories.
 
-原作者保留 Universe Wall Framework 官方基底規則與官方相容標準的最終解釋權。
+其他人基於本框架創作的作品中，其自行創作的角色、劇情、世界、設定擴展、遊戲、漫畫、動畫或其他原創內容，屬於其創作者本人。
 
-The original creator retains final interpretive authority over the official base rules and official compatibility standard of the Universe Wall Framework.
+在這些作品中使用到的 Universe Wall Framework 原始基底規則、官方術語與官方相容標準，仍歸屬於原作者的原始框架，不會因被他人使用而轉移。
+
+任何人不得將 Universe Wall Framework 的原始基底規則宣稱為自己的原創框架，也不得將自己的衍生作品宣稱為原作者故事作品的官方正史，除非獲得原作者明確承認。
+
+Original characters, plots, worlds, setting expansions, games, comics, animations, or other original content created by others based on this framework belong to their respective creators.
+
+The original base rules, official terminology, and official compatibility standard of the Universe Wall Framework used within such works remain part of the original creator’s framework and are not transferred by use.
+
+No one may claim the original base rules of the Universe Wall Framework as their own original framework, nor may they claim their derivative works as official canon of the original creator’s stories unless explicitly approved by the original creator.
+
 
 
 ## 官方解釋權 Official Interpretive Authority
