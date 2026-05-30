@@ -61,3 +61,8 @@ rather than:
 原作者保留 Universe Wall Framework 官方基底規則與官方相容標準的最終解釋權。
 
 The original creator retains final interpretive authority over the official base rules and official compatibility standard of the Universe Wall Framework.
+
+Suggested credit:
+Based on the Universe Wall Framework by easonho90114 / @easonho0114, licensed under CC BY 4.0.
+建議署名：
+基於 easonho90114 / @easonho0114 創作的 Universe Wall Framework，採 CC BY 4.0 授權。
