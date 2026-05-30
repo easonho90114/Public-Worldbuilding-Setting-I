@@ -31,7 +31,9 @@ This worldbuilding framework is released under **CC BY 4.0**.
 When using, sharing, adapting, or creating works based on this framework, please credit the original creator.
 
 ## 官方相容規則 Official Compatibility Rule
-Universe Wall Framework 的既有底層規則可以被擴展，但不能被覆寫。
+
+Universe Wall Framework 
+的既有底層規則可以被擴展，但不能被覆寫。
 The established base rules of the Universe Wall Framework may be expanded, but not overwritten.
 作品不需要使用所有底層規則；但如果一部作品想宣稱自己「相容於官方 Universe Wall Framework」，就不能否定、矛盾或重新定義其作品中涉及或依賴的既有底層規則。
 A work does not need to use every base rule. However, if it claims compatibility with the official Universe Wall Framework, it must not deny, contradict, or redefine any established base rule it touches or relies on.
