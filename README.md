@@ -190,3 +190,30 @@ Their specific meanings are defined by the official setting texts published in t
 本文件是世界觀使用規則說明，不構成法律建議。
 
 This is a worldbuilding usage policy, not legal advice.
+
+## 給創作者的話 For Creators
+
+這個框架不是為了限制大家創作，而是為了提供一個可以共同使用的多宇宙底層架構。
+
+你可以自由地在這個框架上創作自己的小說、角色、世界、漫畫、遊戲、動畫或其他作品，也可以進行商業化。你創作出的原創內容屬於你自己，不需要特地來問我。
+
+我希望這套框架能像一塊共同地基：大家可以在上面蓋出完全不同的房子、城市和文明。你不需要使用所有設定，也不需要讓你的故事配合我的小說。
+
+唯一需要注意的是：如果你想說自己的作品與官方 Universe Wall Framework 相容，請不要把已經建立的底層規則改成相反的東西。若你想大幅魔改，也完全可以，只要標示為 “Inspired by the Universe Wall Framework” 就好。
+
+簡單來說：
+你可以自由地玩、自由地創作、自由地擴展。
+我只保留官方基底框架與相容標準的解釋權，避免地基本身失控。
+
+This framework is not meant to restrict people’s creativity. It is meant to provide a shared multiverse foundation that others can build on.
+
+You may freely create your own stories, characters, worlds, comics, games, animations, or other works based on this framework, including commercial works. Your independently created original content belongs to you, and you do not need to ask me for permission.
+
+I hope this framework can work like a shared foundation: everyone can build different houses, cities, and civilizations on top of it. You do not need to use every setting, and your story does not need to follow my own novel.
+
+The only important point is this: if you want to say your work is compatible with the official Universe Wall Framework, please do not change the established base rules into something contradictory. If you want to heavily modify the framework, that is also fine; just label it as “Inspired by the Universe Wall Framework” instead.
+
+In short:
+You are free to play, create, and expand.
+I only retain interpretive authority over the official base framework and compatibility standard so that the foundation itself does not lose its shape.
+
