@@ -45,6 +45,10 @@ This worldbuilding framework is released under **CC BY 4.0**.
 
 When using, sharing, adapting, or creating works based on this framework, please credit the original creator.
 
+本相容規則不限制他人依 CC BY 4.0 進行改作；它只規範作品能否宣稱與官方框架相容。
+
+This compatibility rule does not restrict adaptations allowed under CC BY 4.0. It only governs whether a work may claim compatibility with the official framework.
+
 建議署名：
 
 **基於 easonho90114 / @easonho0114 創作的 Universe Wall Framework，採 CC BY 4.0 授權。**
@@ -68,6 +72,10 @@ A work does not need to use every base rule. However, if it claims compatibility
 可以新增規則、世界、種族、能力系統、歷史與解釋，只要它們是在既有基礎上擴展，而不是取代基礎。
 
 New rules, worlds, species, systems, abilities, histories, and interpretations may be added, as long as they are built on top of the existing foundation rather than replacing it.
+
+使用官方術語是允許的；但不得將官方術語及其既有定義宣稱為自己的原創框架。
+
+Use of the official terminology is allowed; however, no one may claim the official terminology and its established meanings as their own original framework.
 
 如果作品更動了底層規則，仍然可以自由發表，但應標示為：
 
@@ -98,6 +106,10 @@ rather than:
 其他人基於本框架創作的作品，除非獲得原作者明確承認，否則皆屬於獨立作品，不屬於原作者故事作品的官方正史。
 
 Works created by others based on this framework are independent works unless explicitly approved by the original creator. They are not part of the official canon of the original creator’s stories.
+
+除非原作者明確聲明，任何作品即使相容，也不代表已經通過官方審核。
+
+Unless explicitly stated by the original creator, compatibility does not mean the work has been officially reviewed or approved.
 
 ---
 
@@ -131,6 +143,17 @@ The original creator retains final interpretive authority over the official base
 
 This interpretive authority applies only to the official base framework, official terminology definitions, and official compatibility standard of the Universe Wall Framework. It does not apply to independent original content created by others.
 
+原作者不主張擁有他人自行創作的角色、劇情、世界或作品。
+
+The original creator does not claim ownership over characters, plots, worlds, or works independently created by others.
+
+---
+## 版本 Version
+
+作品可以標示其相容的框架版本。若未標示版本，通常視為參考其創作時公開的最新版本。
+
+A work may state which version of the framework it is compatible with. If no version is stated, it is generally understood to refer to the latest public version available at the time of creation.
+
 ---
 
 ## 簡短原則 Short Principle
@@ -138,6 +161,14 @@ This interpretive authority applies only to the official base framework, officia
 你可以在地基上建造自己的世界，但不能把地基挖掉後仍宣稱它與官方框架相容。
 
 You may build your own world on top of the foundation, but you may not remove or replace the foundation and still claim compatibility with the official framework.
+
+---
+
+## 核心規則清單 Core Rule List
+
+核心基底規則包括但不限於：Universe Wall、Void、Observational Phase、Parallel Worlds、Parallel Chains、Finite Universes，以及跨宇宙現象的基本原理。
+
+Core base rules include, but are not limited to: Universe Walls, the Void, Observational Phases, Parallel Worlds, Parallel Chains, Finite Universes, and the basic principles of cross-universe phenomena.
 
 ---
 
