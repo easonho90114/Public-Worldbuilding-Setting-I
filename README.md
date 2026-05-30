@@ -8,12 +8,9 @@ parallel world, parallel chains, finite universe, and inter-universe phenomena.
 
 - Public Worldbuilding Setting I (English)
 - 世界觀背景 (中文)
-
-## 版權聲明
-
-© 2026 easonho90114. All rights reserved.
-
-本資料庫中的世界觀、設定、名稱與文字內容皆為原創內容。
-目前已經開源歡迎任何人使用。
-The world settings, background settings, names, and text content in 
-this database are all original.
+- 
+## 理念 Philosophy
+本資料庫作為開放式世界觀框架公開。
+This project is released as an open worldbuilding framework.
+你可以依照 MIT License 使用、修改與延伸這些設定概念，但原始世界觀、名稱、故事線與後續擴展仍屬於我的創作宇宙。
+You may use, modify, and build upon these concepts under the MIT License, but the original setting, names, storylines, and future expansions remain part of my creative universe.
