@@ -2,6 +2,12 @@
 
 # Universe Wall Framework
 
+Original creator: easonho90114 / @easonho0114
+
+本文件中的「官方」指由原作者 easonho90114 / @easonho0114 發布或明確承認的 Universe Wall Framework 內容。
+
+In this document, “official” refers to Universe Wall Framework materials published or explicitly approved by the original creator, easonho90114 / @easonho0114.
+
 這是一個原創世界觀設定檔案庫，主要記錄「宇宙牆壁」、「虛」、「平行世界」、「平行鏈」、「有限宇宙」與「跨宇宙現象」等設定。
 
 This is an original worldbuilding archive that mainly documents concepts such as Universe Walls, the Void, Parallel Worlds, Parallel Chains, Finite Universes, and cross-universe phenomena.
@@ -169,6 +175,10 @@ You may build your own world on top of the foundation, but you may not remove or
 核心基底規則包括但不限於：Universe Wall、Void、Observational Phase、Parallel Worlds、Parallel Chains、Finite Universes，以及跨宇宙現象的基本原理。
 
 Core base rules include, but are not limited to: Universe Walls, the Void, Observational Phases, Parallel Worlds, Parallel Chains, Finite Universes, and the basic principles of cross-universe phenomena.
+
+其具體定義以本資料庫公開的官方設定文本為準。
+
+Their specific meanings are defined by the official setting texts published in this archive.
 
 ---
 
