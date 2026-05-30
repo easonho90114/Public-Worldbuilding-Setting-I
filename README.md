@@ -67,3 +67,7 @@ Based on the Universe Wall Framework by easonho90114 / @easonho0114, licensed un
 
 建議署名：
 基於 easonho90114 / @easonho0114 創作的 Universe Wall Framework，採 CC BY 4.0 授權。
+
+## This is a worldbuilding usage policy, not legal advice.
+
+## 本文件是世界觀使用規則說明，不構成法律建議。
