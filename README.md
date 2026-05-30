@@ -33,11 +33,17 @@ When using, sharing, adapting, or creating works based on this framework, please
 ## 官方相容規則 Official Compatibility Rule
 
 Universe Wall Framework 
+
 的既有底層規則可以被擴展，但不能被覆寫。
+
 The established base rules of the Universe Wall Framework may be expanded, but not overwritten.
+
 作品不需要使用所有底層規則；但如果一部作品想宣稱自己「相容於官方 Universe Wall Framework」，就不能否定、矛盾或重新定義其作品中涉及或依賴的既有底層規則。
+
 A work does not need to use every base rule. However, if it claims compatibility with the official Universe Wall Framework, it must not deny, contradict, or redefine any established base rule it touches or relies on.
+
 可以新增規則、世界、種族、能力系統、歷史與解釋，只要它們是在既有基礎上擴展，而不是取代基礎。
+
 New rules, worlds, species, systems, abilities, histories, and interpretations may be added, as long as they are built on top of the existing foundation rather than replacing it.
 
 如果作品更動了底層規則，仍然可以自由發表，但應標示為：
