@@ -64,5 +64,6 @@ The original creator retains final interpretive authority over the official base
 
 Suggested credit:
 Based on the Universe Wall Framework by easonho90114 / @easonho0114, licensed under CC BY 4.0.
+
 建議署名：
 基於 easonho90114 / @easonho0114 創作的 Universe Wall Framework，採 CC BY 4.0 授權。
