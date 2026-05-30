@@ -8,6 +8,8 @@ Original creator: easonho90114 / @easonho0114
 
 In this document, “official” refers to Universe Wall Framework materials published or explicitly approved by the original creator, easonho90114 / @easonho0114.
 
+---
+
 這是一個原創世界觀設定檔案庫，主要記錄「宇宙牆壁」、「虛」、「平行世界」、「平行鏈」、「有限宇宙」與「跨宇宙現象」等設定。
 
 This is an original worldbuilding archive that mainly documents concepts such as Universe Walls, the Void, Parallel Worlds, Parallel Chains, Finite Universes, and cross-universe phenomena.
