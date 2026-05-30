@@ -17,12 +17,9 @@ This is an original worldbuilding archive that mainly documents concepts such as
 
 This project is released as an open worldbuilding framework.
 
-本世界觀框架採用 CC BY 4.0 授權。
-你可以使用、改作、混合，並基於此設定創作自己的小說、遊戲、漫畫、動畫或其他作品，包括商業作品。
-你創作出的原創角色、劇情、世界與作品屬於你自己。
-請標註原始世界觀框架作者。
+原始世界觀框架文本採用 CC BY-ND 4.0 授權。
+任何人都可以自由創作並商業化基於此框架的原創小說、角色、遊戲、漫畫、動畫與世界。
+但不得將修改過的框架宣稱為官方基底框架。
 
-This worldbuilding framework is released under CC BY 4.0.
-You may use, adapt, remix, and build your own stories, games, comics, animations, or other works based on this setting, including commercial works.
-Your original characters, plots, worlds, and derivative works belong to you.
-Please credit the original worldbuilding framework creator.
+The original worldbuilding framework text is licensed under CC BY-ND 4.0.
+You may freely create and commercialize your own original stories, characters, games, comics, animations, and worlds built on top of this framework, as long as you do not claim your modified version of the framework is the official base framework.
