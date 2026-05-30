@@ -2,7 +2,8 @@
 
 # Universe Wall Framework
 
-Original creator: easonho90114 / @easonho0114
+Original creator: easonho90114
+Contact / handle: @easonho0114
 
 本文件中的「官方」指由原作者 easonho90114 / @easonho0114 發布或明確承認的 Universe Wall Framework 內容。
 
